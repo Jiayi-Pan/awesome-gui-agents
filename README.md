@@ -4,6 +4,7 @@ A curated list of gui agents and resources
 ## Models (WIP)
 | Name | Platform | Input | Paper | Release Date (Month/Year) |
 | --- | --- | --- | --- | --- |
+| AutoDroid | Android | HTML | [Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272) | 8/23 |
 | WebAgent | Web | HTML | [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856) | 7/23 |
 | Mind2Web T5 Baseline | Web | HTML | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | 6/23 |
 | Mind2Web Prompt Baseline | Web | HTML | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | 6/23 |
