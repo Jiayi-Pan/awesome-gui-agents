@@ -1,2 +1,2 @@
-# awesome-gui-agents
-A list of gui agents and resources
+# 🦜↔ 🖥️/📱 Awesome GUI Agents ![Awesome](https://awesome.re/badge.svg)
+A curated list of gui agents and resources
