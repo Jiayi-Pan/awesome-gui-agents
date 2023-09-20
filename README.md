@@ -1,5 +1,7 @@
 # 🦜↔ 🖥️/📱 Awesome GUI Agents ![Awesome](https://awesome.re/badge.svg)
 A curated list of gui agents and resources
+
+## Models (WIP)
 | Name | Platform | Input | Paper | Release Date (Month/Year) |
 | --- | --- | --- | --- | --- |
 | WebAgent | Web | HTML | [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856) | 7/23 |
@@ -11,3 +13,5 @@ A curated list of gui agents and resources
 | Humphreys et al, 22 | Web | HTML,Image | [A data-driven approach for learning to control computers](https://arxiv.org/abs/2202.08137) | 11/22 |
 | MetaGUI Baseline | Android | XML, Image | [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) | 11/22 |
 | WebGPT | Web | Text | [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | 12/21 |
+
+## Datasets (WIP)
